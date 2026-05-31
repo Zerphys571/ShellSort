@@ -1,1 +1,4 @@
-# ShellSort_estrutura_dados --> atualizado com comparação com o Bubble sort, e com as duas imagens sendo uma do Bubble Sort e outro do Shell Sort
+# Algoritmo de Ordenação Shell Sort
+
+## Autores: Luis Guilherme Viana Camargo, Vinícius Nunes Lemes.
+
